@@ -1,0 +1,11 @@
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\bin\Debug\Assignment2_MemAllocation.exe.config
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\bin\Debug\Assignment2_MemAllocation.exe
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\bin\Debug\Assignment2_MemAllocation.pdb
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.Properties.Resources.resources
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.csproj.GenerateResource.cache
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.csproj.CoreCompileInputs.cache
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.exe
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.pdb
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.Memory.resources
+c:\users\mahmoudh\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.Memory_Allocation.resources
+C:\Users\MahmoudH\source\repos\Assignment2_MemAllocation\Assignment2_MemAllocation\obj\Debug\Assignment2_MemAllocation.csprojResolveAssemblyReference.cache
